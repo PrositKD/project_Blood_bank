@@ -1,0 +1,110 @@
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.AssemblyReference.cache
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form1.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.GenerateResource.cache
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.AssemblyInfoInputs.cache
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.AssemblyInfo.cs
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.CoreCompileInputs.cache
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.exe
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.deps.json
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.runtimeconfig.json
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.pdb
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\refint\This__SUCKS!!!.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.pdb
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.genruntimeconfig.cache
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\ref\This__SUCKS!!!.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form2.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Properties.Resources.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form3.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form4.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form5.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form6.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form7.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form8.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form9.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form10.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form11.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form12.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form13.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form14.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\This__SUCKS!!!\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form15.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.exe
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.deps.json
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.runtimeconfig.json
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.pdb
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.AssemblyReference.cache
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form1.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form10.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form11.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form12.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form13.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form14.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form15.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form2.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form3.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form4.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form5.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form6.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form7.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form8.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form9.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Properties.Resources.resources
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.GenerateResource.cache
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.AssemblyInfoInputs.cache
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.AssemblyInfo.cs
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.CoreCompileInputs.cache
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\refint\This__SUCKS!!!.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.pdb
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.genruntimeconfig.cache
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\ref\This__SUCKS!!!.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New folder\AIUB\semester 7(22May-20August)\Object Oriented Programming 2\Project\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.CopyComplete
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.exe
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.deps.json
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.runtimeconfig.json
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.dll
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\This__SUCKS!!!.pdb
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form1.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form10.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form11.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form12.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form13.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form14.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form15.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form2.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form3.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form4.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form5.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form6.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form7.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form8.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Form9.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS___.Properties.Resources.resources
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.AssemblyInfo.cs
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.csproj.CopyComplete
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.dll
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\refint\This__SUCKS!!!.dll
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.pdb
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\This__SUCKS!!!.genruntimeconfig.cache
+C:\Users\asus\Downloads\Final__Project (2)\Final__Project\This__SUCKS!!!\obj\Debug\net6.0-windows\ref\This__SUCKS!!!.dll
